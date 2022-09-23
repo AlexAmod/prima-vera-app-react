@@ -1,1 +1,0 @@
-# prima-vera-app-react
